@@ -1,4 +1,4 @@
-# Titanic Survival Prediction – Induction Task  
+# Titanic Survival Prediction
 
 ## Summary  
 - Built a **Random Forest Classifier** to predict survival on the Titanic dataset.  
